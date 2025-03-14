@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Luiz Gustavo Canzone Sikorski</h1>
+    <h2>sobre mim</h2>
+    <p>Eu sou um estudante do ensino médio, e tenho certas habilidades com tecnologia que são muito úteis</p>
+    <h2>competencias</h2>
+    <ul>
+        <li>conhecimentos basicos de ti</li>
+        <li>boa noção matemática</li>
+        <li>bom com pesquisas</li>
+    </ul>
+    <h2>escolaridade</h2>
+    <ul>
+        <li>ensino fundamental 1</li>
+        <li>ensino fundamental 2</li>
+    </ul>
+
+</body>
+</html>
